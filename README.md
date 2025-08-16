@@ -57,11 +57,11 @@ Jupyter Notebook – analysis and documentation
 
 This project combines my love for storytelling and media analysis with my technical skills in data analytics. It showcases how data can be used to uncover trends that resonate with audiences—even when critics disagree.
 
-It’s also a fun example of bridging the gap between cultural commentary (Buzzfeed article) and data-driven insights (EDA + visualization).
+It’s also my way of bridging the gap between cultural commentary (the Buzzfeed article) and data-driven insights.
 
 ## Next Steps
 
-Expand analysis to include audience demographics (age, region) if available.
+Expand analysis to include audience demographics (age, region) if available datasets permit.
 
 Compare across time: how does the perception of hidden gems change after release?
 
